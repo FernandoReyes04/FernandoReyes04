@@ -1,7 +1,7 @@
 
 # Hi, I'm Fernando — Software Engineering Student & Dev in Progress
 
-I'm a Software Engineering student, I'm 21 years old, and I'm passionate about web, mobile, and smart model development.
+I'm a Software Engineering student, I'm 21 years old, and I'm passionate about web, mobile, and smart model development. I participated in the TalenLand Hackathon in Jalisco 2024, the NASA Space Apps Challenge in Calkini, and a local video game tournament at my university. 
 
 
 ## 🔗 Links
