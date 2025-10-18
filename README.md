@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**FernandoReyes04/FernandoReyes04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I´m Fernando
 
-Here are some ideas to get you started:
+I´m a Software Engineering student, I´m 21 years old, and I´m passionate about web, mobile, and smart model development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandoreyesb09@gmail.com)
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GdCeitxjV/?mibextid=wwXIfr)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando_rb20?igsh=bXJuc3J3dmdmdXc%3D&utm_source=qr)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luisfreyesbetancourt3628)
+
+
+## 🛠 Skills
+Python, HTML, CSS, Reack, TypeScript, Android, MySQL
+
+
+## Student data
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoReyes04&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoReyes04&theme=dark&show_icons=true&hide_border=true&layout=compact)
