@@ -1,5 +1,5 @@
 
-# Hi, I´m Fernando
+# Hi, I´m Fernando — Software Engineering Student & Dev in Progress
 
 I´m a Software Engineering student, I´m 21 years old, and I´m passionate about web, mobile, and smart model development.
 
@@ -12,9 +12,9 @@ I´m a Software Engineering student, I´m 21 years old, and I´m passionate abou
 
 
 ## 🛠 Skills
-Python, HTML, CSS, Reack, TypeScript, Android, MySQL
+Python, HTML, CSS, React, TypeScript, Android, MySQL
 
 
-## Student data
+## GitHub Activity
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoReyes04&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoReyes04&theme=dark&show_icons=true&hide_border=true&layout=compact)
