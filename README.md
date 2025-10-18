@@ -1,5 +1,5 @@
 
-# Hi, I'mFernando — Software Engineering Student & Dev in Progress
+# Hi, I'm Fernando — Software Engineering Student & Dev in Progress
 
 I'm a Software Engineering student, I'm 21 years old, and I'm passionate about web, mobile, and smart model development.
 
