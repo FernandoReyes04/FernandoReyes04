@@ -23,7 +23,7 @@ I'm a Software Engineering student, I'm 21 years old, and I'm passionate about w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-## GitHub Activity
+## 🧰 GitHub Activity
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoReyes04&show_icons=true&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoReyes04&theme=dark&show_icons=true&hide_border=true&layout=compact)
