@@ -12,7 +12,7 @@ I´m a Software Engineering student, I´m 21 years old, and I´m passionate abou
 
 
 ## 🛠 Skills
-Python, HTML, CSS, React, TypeScript, Android, MySQL
+Python, HTML, CSS, React, JavaScript, Android, MySQL
 
 
 ## GitHub Activity
