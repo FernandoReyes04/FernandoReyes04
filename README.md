@@ -9,7 +9,7 @@ I'm a Software Engineering student, I'm 21 years old, and I'm passionate about w
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1GdCeitxjV/?mibextid=wwXIfr)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernando_rb20?igsh=bXJuc3J3dmdmdXc%3D&utm_source=qr)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luisfreyesbetancourt3628)
-
+[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fernandoreyes04.github.io/Portafolio/)
 
 ## 🧠 Skills
 
